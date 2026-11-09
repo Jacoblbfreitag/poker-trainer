@@ -2,7 +2,7 @@
 
 A phone-first web app for learning 6-max No-Limit Hold'em (cash, 100bb deep).
 
-**Open the app:** https://GITHUB_USER.github.io/poker-trainer/
+**Open the app:** https://Jacoblbfreitag.github.io/poker-trainer/
 
 ## What's inside
 
